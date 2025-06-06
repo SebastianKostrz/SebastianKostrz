@@ -2,8 +2,8 @@
 
 ## About me:
 
-- ⚡ I'm a Junior Full Stack Developer,
-- 🧠 Currently I am focused on expanding my knowledge of Java and React,
+- ⚡ I'm a Junior Frontend Developer,
+- 🧠 Currently I am focused on expanding my knowledge of JavaScript and React,
 - 💻 I don't easily give up on tasks and am determined to do my best,
 - 🤝 I excel in collaborative teamwork and thrive on collectively overcoming challenges.
 - 🎮 Also I love gaming and new technologies !
@@ -13,16 +13,16 @@
 ## 💡 Technology Stack:
 ### Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
 ### Backend Frameworks and technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 ### Frontend Frameworks and technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js)](https://skillicons.dev)
 
 
 ### Databases:
